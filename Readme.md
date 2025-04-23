@@ -5,26 +5,26 @@
 Welcome to my digital corner of the world!  
 I'm **Tamajit**, a future-focused developer who enjoys building purposeful tech and creating experiences that make an impact. Currently pursuing a 4-year **BCA (Hons.)** program, I'm diving deep into:
 
-- 📊 **Data Analytics** – making sense of data, one insight at a time  
-- ☁️ **Cloud Computing** – scaling solutions that are fast, flexible, and future-ready  
-- 🔗 **Blockchain Technology** – exploring the frontier of secure, decentralized systems  
+- 📊 **Data Analytics** – making sense of data, one insight at a time.
+- ☁️ **Cloud Computing** – scaling solutions that are fast, flexible, and future-ready.  
+- 🔗 **Blockchain Technology** – exploring the frontier of secure, decentralized systems.  
 
 ---
 
 ## 🚀 What I Bring to the Table
 
-- 🧠 Analytical thinking & creative problem-solving  
-- 💻 Building intuitive applications using **Python**, **SQL**, and modern **web technologies**  
-- 📈 Data storytelling that reveals patterns, powers decisions, and drives impact  
-- 🧪 Constant learner – always experimenting with frameworks, cloud services, and emerging trends  
+- 🧠 Analytical thinking & creative problem-solving. 
+- 💻 Building intuitive applications using **Python**, **SQL**, and modern **web technologies.**  
+- 📈 Data storytelling that reveals patterns, powers decisions, and drives impact.  
+- 🧪 Constant learner – always experimenting with frameworks, cloud services, and emerging trends.  
 
 ---
 
 ## 🌐 Beyond the Code
 
-- 📸 **Photographer by heart** – capturing stories through light and lens  
-- ✍️ **Poet & thinker** – weaving words and emotions into meaningful expressions  
-- ☕ **Tea-loving traveler** – exploring places, people, and perspectives  
+- 📸 **Photographer by heart** – capturing stories through light and lens.  
+- ✍️ **Poet & thinker** – weaving words and emotions into meaningful expressions.  
+- ☕ **Tea-loving traveler** – exploring places, people, and perspectives. 
 
 Tech excites me. Art fuels me. Curiosity drives me.
 
