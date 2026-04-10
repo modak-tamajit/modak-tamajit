@@ -1,12 +1,12 @@
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=Tamajit+Modak;Full-Stack+Developer+(Aspirant);C+%7C+Python+%7C+Kotlin;Learning+Swift+%26+Cloud;Build.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=Tamajit+Modak;Full-Stack+Developer+;C+%7C+Python+%7C+Kotlin;Learning+Swift+%26+Cloud;Build.+Break.+Learn.+Repeat." />
 </p>
 
 ---
 
 # 👨‍💻 Tamajit Modak  
-**Full-Stack Developer (Aspirant) | BCA (Hons.)**
+**Full-Stack Developer | BCA (Hons.)**
 
 ---
 
